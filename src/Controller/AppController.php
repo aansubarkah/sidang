@@ -67,6 +67,6 @@ class AppController extends Controller
         }
 
         // default theme to Bootstrap
-        $this->viewBuilder()->theme('Bootstrap');
+        //$this->viewBuilder()->theme('Bootstrap');
     }
 }
